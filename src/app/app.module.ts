@@ -10,7 +10,6 @@ import { EventsAppComponent } from './events-app.component';
   declarations: [
     EventsAppComponent
   ],
-  providers: [],
   bootstrap: [EventsAppComponent]
 })
 export class AppModule { }
